@@ -2,3 +2,5 @@ WPU RESOLUSI
 - Konsisten untuk mempelajari Web Development
 - Membuat sebuah web company profile
 - Membuat sebuah web forum diskusi
+- Membuat sebuah aplikasi mobile
+- Kolaborasi dengan banyak expert
