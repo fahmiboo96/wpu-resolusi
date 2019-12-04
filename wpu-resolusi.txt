@@ -3,4 +3,4 @@ WPU RESOLUSI
 - Membuat sebuah web company profile
 - Membuat sebuah web forum diskusi
 - Membuat sebuah aplikasi mobile
-- Kolaborasi dengan banyak expert
+- Membuat video tutorial tentang Web Development
